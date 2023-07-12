@@ -38,8 +38,8 @@ node index.js
 ```
 # Authors
  --- 
-marghe27
-EvaLa94
+* marghe27
+* EvaLa94
 
 
 # License
